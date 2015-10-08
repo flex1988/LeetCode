@@ -2,4 +2,4 @@
 
 #### C solution for LeetCode.
 
-#### Progress 22/247
+#### Progress 23/247
