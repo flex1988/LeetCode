@@ -7,14 +7,12 @@ int lengthOfLongestSubstring(char* s)
     int last = 0;
     int i = 0;
     for (; last < slen, i < slen;) {
-
         if (array[s[i] - '\0'] == 0) {
             length++;
             array[s[i] - '\0'] = i + 1;
             i++;
         }
         else {
-
             ret = ret > length ? ret : length;
             last = array[s[i] - '\0'];
             i = last;
