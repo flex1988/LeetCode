@@ -1,5 +1,5 @@
 # LeetCode
 
-#### C solution for LeetCode.
+#### solution for LeetCode.
 
 #### Progress 136/247
